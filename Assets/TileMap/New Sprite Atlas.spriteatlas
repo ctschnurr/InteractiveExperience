@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1372429912, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -2099367349, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 896397853, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1024538255, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1747467344, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -2095632513, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -941000092, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1471614926, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 646376548, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 384335017, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1377099518, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1903024303, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1367548811, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1217681886, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -700191300, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1132792576, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1493464958, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1235891712, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 288752740, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 2014137706, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1469791590, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1648406066, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1975896383, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 2098044159, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 317902889, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 2029727045, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -739507641, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -644400843, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -584820134, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1015517435, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -926109895, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -2064583752, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -319695165, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -838427970, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 2041191575, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 196965828, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1461015918, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1561349686, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 37818854, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1282713920, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1178693624, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 794831472, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1850029387, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 587559630, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1893694489, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 352803519, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1735330168, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1264590595, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 2040912331, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1322335960, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1557213828, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 1689836278, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1812793647, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -19405873, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1182810266, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 951255012, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -1058158017, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: 117371330, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  - {fileID: -474370744, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dungeon_terrain_sheet_8
+  - dungeon_terrain_sheet_9
+  - dungeon_terrain_sheet_4
+  - dungeon_terrain_sheet_5
+  - dungeon_terrain_sheet_6
+  - dungeon_terrain_sheet_7
+  - dungeon_terrain_sheet_0
+  - dungeon_terrain_sheet_1
+  - dungeon_terrain_sheet_2
+  - dungeon_terrain_sheet_3
+  - dungeon_terrain_sheet_48
+  - dungeon_terrain_sheet_49
+  - dungeon_terrain_sheet_28
+  - dungeon_terrain_sheet_29
+  - dungeon_terrain_sheet_58
+  - dungeon_terrain_sheet_40
+  - dungeon_terrain_sheet_41
+  - dungeon_terrain_sheet_39
+  - dungeon_terrain_sheet_42
+  - dungeon_terrain_sheet_22
+  - dungeon_terrain_sheet_38
+  - dungeon_terrain_sheet_43
+  - dungeon_terrain_sheet_53
+  - dungeon_terrain_sheet_23
+  - dungeon_terrain_sheet_44
+  - dungeon_terrain_sheet_52
+  - dungeon_terrain_sheet_20
+  - dungeon_terrain_sheet_45
+  - dungeon_terrain_sheet_51
+  - dungeon_terrain_sheet_21
+  - dungeon_terrain_sheet_35
+  - dungeon_terrain_sheet_46
+  - dungeon_terrain_sheet_50
+  - dungeon_terrain_sheet_26
+  - dungeon_terrain_sheet_34
+  - dungeon_terrain_sheet_47
+  - dungeon_terrain_sheet_57
+  - dungeon_terrain_sheet_27
+  - dungeon_terrain_sheet_37
+  - dungeon_terrain_sheet_56
+  - dungeon_terrain_sheet_24
+  - dungeon_terrain_sheet_36
+  - dungeon_terrain_sheet_55
+  - dungeon_terrain_sheet_25
+  - dungeon_terrain_sheet_31
+  - dungeon_terrain_sheet_54
+  - dungeon_terrain_sheet_30
+  - dungeon_terrain_sheet_33
+  - dungeon_terrain_sheet_32
+  - dungeon_terrain_sheet_17
+  - dungeon_terrain_sheet_16
+  - dungeon_terrain_sheet_15
+  - dungeon_terrain_sheet_14
+  - dungeon_terrain_sheet_13
+  - dungeon_terrain_sheet_12
+  - dungeon_terrain_sheet_11
+  - dungeon_terrain_sheet_10
+  - dungeon_terrain_sheet_19
+  - dungeon_terrain_sheet_18
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
