@@ -183,6 +183,9 @@ public class ChatManager : MonoBehaviour
                 }
                 else if (!doorQuestComplete) RunChat(chatStrings);
                 break;
+            default:
+                RunChat(chatStrings);
+                break;
         }
 
     }
