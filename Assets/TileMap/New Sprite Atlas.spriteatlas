@@ -33,11 +33,23 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
+    - {fileID: 2800000, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: -2134368008, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: 17152948, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: 118989282, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: -1254169546, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: 805431563, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: 266841438, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: 2010362740, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: -1112076115, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: 95510845, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: 1815737131, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
+  - {fileID: -33220836, guid: 1499ff64ea5f6694f99ccf1725662d95, type: 3}
   - {fileID: -1372429912, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
   - {fileID: -2099367349, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
   - {fileID: 896397853, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
@@ -98,6 +110,17 @@ SpriteAtlas:
   - {fileID: 117371330, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
   - {fileID: -474370744, guid: 3b58bd27cccb31c4b9241b443ff163d1, type: 3}
   m_PackedSpriteNamesToIndex:
+  - interactables_5
+  - interactables_4
+  - interactables_7
+  - interactables_6
+  - interactables_1
+  - interactables_0
+  - interactables_3
+  - interactables_2
+  - interactables_9
+  - interactables_8
+  - interactables_10
   - dungeon_terrain_sheet_8
   - dungeon_terrain_sheet_9
   - dungeon_terrain_sheet_4
